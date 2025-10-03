@@ -5,4 +5,5 @@ matplotlib
 scikit-learn
 catboost
 xgboost
+dill ## for pkl file 
 # -e . # uncomment this when the package is ready to be installed
