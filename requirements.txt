@@ -6,4 +6,5 @@ scikit-learn
 catboost
 xgboost
 dill ## for pkl file 
+flask
 # -e . # uncomment this when the package is ready to be installed
